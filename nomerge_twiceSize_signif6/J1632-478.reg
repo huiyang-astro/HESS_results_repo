@@ -1,0 +1,11 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(4809.0689,5149.2025) # point=boxcircle
+point(5816.7348,3006.9433) # point=boxcircle
+point(4389.3666,4712.2903) # point=boxcircle
+point(5229.7467,3301.0398) # point=boxcircle
+point(4643.0858,3877.4171) # point=boxcircle
+point(3864.0343,4159.6481) # point=boxcircle
+point(3785.5583,3650.6081) # point=boxcircle
+point(3950.7207,3114.12) # point=boxcircle

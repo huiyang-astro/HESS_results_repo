@@ -1,0 +1,44 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(3851.0654,1978.711) # point=boxcircle
+point(2455.5842,8259.0303) # point=boxcircle
+point(2874.7419,4716.7002) # point=boxcircle
+point(3323.0462,3404.6397) # point=boxcircle
+point(3903.7663,1989.5051) # point=boxcircle
+point(3046.3145,4441.9383) # point=boxcircle
+point(2586.4031,7783.3477) # point=boxcircle
+point(2545.1528,8576.3107) # point=boxcircle
+point(4052.427,1773.3016) # point=boxcircle
+point(2692.8127,7449.1248) # point=boxcircle
+point(2754.5834,8315.4049) # point=boxcircle
+point(2798.4621,8426.0303) # point=boxcircle
+point(2816.75,8426.9667) # point=boxcircle
+point(2854.5826,8071.7706) # point=boxcircle
+point(2907.9188,8094.0328) # point=boxcircle
+point(2911.2764,8043.8251) # point=boxcircle
+point(2921.9394,8091.1067) # point=boxcircle
+point(2917.3713,8052.9321) # point=boxcircle
+point(2925.6022,8037.1385) # point=boxcircle
+point(2931.0851,8070.5567) # point=boxcircle
+point(2905.732,8619.7395) # point=boxcircle
+point(2939.6232,8029.8625) # point=boxcircle
+point(2950.5956,8030.8186) # point=boxcircle
+point(2945.6681,8551.7464) # point=boxcircle
+point(3041.7905,7327.3565) # point=boxcircle
+point(3040.2459,7559.2825) # point=boxcircle
+point(3047.7737,8589.3998) # point=boxcircle
+point(3110.2937,8166.8176) # point=boxcircle
+point(3186.5601,7280.3916) # point=boxcircle
+point(3215.1052,8660.0479) # point=boxcircle
+point(3491.3312,7230.9529) # point=boxcircle
+point(3509.2948,7585.2444) # point=boxcircle
+point(4170.9384,3704.7682) # point=boxcircle
+point(3867.4542,5129.0165) # point=boxcircle
+point(3904.8864,8040.1073) # point=boxcircle
+point(4183.1303,4375.5203) # point=boxcircle
+point(4262.3508,4411.5358) # point=boxcircle
+point(5131.7428,2075.7175) # point=boxcircle
+point(4658.7556,4375.5888) # point=boxcircle
+point(5104.412,3085.2897) # point=boxcircle
+point(5151.1777,4791.5738) # point=boxcircle

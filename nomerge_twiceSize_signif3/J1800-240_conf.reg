@@ -1,0 +1,38 @@
+# Region file format: DS9 version 4.1
+global color=green dashlist=8 3 width=1 font="helvetica 10 normal roman" select=1 highlite=1 dash=0 fixed=0 edit=1 move=1 delete=1 include=1 source=1
+physical
+point(3379.2235,1240.5224) # point=boxcircle
+point(3220.3868,1793.2755) # point=boxcircle
+point(3289.495,2050.0928) # point=boxcircle
+point(3480.577,1564.0433) # point=boxcircle
+point(3550.5569,1365.5217) # point=boxcircle
+point(3661.228,1559.5712) # point=boxcircle
+point(3626.3077,1816.0467) # point=boxcircle
+point(3702.4545,1484.8304) # point=boxcircle
+point(3653.6696,1651.8677) # point=boxcircle
+point(3676.7202,1775.2563) # point=boxcircle
+point(3797.3327,1583.2635) # point=boxcircle
+point(3568.618,2418.9977) # point=boxcircle
+point(3753.8276,1809.9838) # point=boxcircle
+point(3887.4764,1779.9612) # point=boxcircle
+point(3936.805,1485.2249) # point=boxcircle
+point(3921.736,1699.5591) # point=boxcircle
+point(3970.7389,1650.3987) # point=boxcircle
+point(3768.2932,2653.4412) # point=boxcircle
+point(3858.6332,2447.1646) # point=boxcircle
+point(3955.0996,1988.7195) # point=boxcircle
+point(4236.7906,1147.5708) # point=boxcircle
+point(3670.6108,5485.2237) # point=boxcircle
+point(4245.7485,1495.9181) # point=boxcircle
+point(4007.9739,5375.7396) # point=boxcircle
+point(4112.1639,2310.6678) # point=boxcircle
+point(4380.7584,1563.5114) # point=boxcircle
+point(4329.3944,2097.0982) # point=boxcircle
+point(4637.5369,832.40729) # point=boxcircle
+point(4472.6328,1611.9971) # point=boxcircle
+point(4358.965,5314.935) # point=boxcircle
+point(4422.3552,1921.741) # point=boxcircle
+point(4519.5598,1976.1143) # point=boxcircle
+point(4539.5316,2406.7647) # point=boxcircle
+point(4620.0982,1995.4748) # point=boxcircle
+point(4546.1803,2327.126) # point=boxcircle
